@@ -50,7 +50,7 @@
       </div>
     </div>
 
-    <!-- Logout -->
+    <!-- Logout
     <div class="flex justify-center mt-6">
       <router-link to="/login">
         <button @click="logout"
@@ -58,7 +58,7 @@
           Logout
         </button>
       </router-link>
-    </div>
+    </div> -->
   </div>
 </template>
 
